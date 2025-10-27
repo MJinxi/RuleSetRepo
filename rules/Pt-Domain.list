@@ -1,0 +1,62 @@
+# NAME: Pt-Domain
+# AUTHOR: MJinxi
+# REPO: https://github.com/MJinxi/Rule
+# 站点策略组列表
+
+
+# 1.馒头(已走代理)
+# DOMAIN,api.m-team.cc
+# DOMAIN,kp.m-team.cc
+# 2.我堡(站点和种子同地址)
+# DOMAIN,ourbits.club
+# DOMAIN-SUFFIX,ourbits.club
+# 3.憨憨
+DOMAIN,hhan.club
+DOMAIN,hhanclub.top
+# 4.人人
+DOMAIN,audiences.me
+# 5.家园
+DOMAIN,hdhome.org
+# 6.天空
+DOMAIN,hdsky.me
+# 7.不可说
+DOMAIN,springsunday.net
+# 8.月月
+DOMAIN,pt.keepfrds.com
+# 9.皇后
+DOMAIN,open.cd
+# 10猫站
+DOMAIN,pterclub.com
+DOMAIN,pterclub.net
+# 11.套条
+DOMAIN,totheglory.im
+# 12.彩虹岛
+DOMAIN,ptchdbits.co
+DOMAIN,gd.chddiy.xyz
+DOMAIN,chdbits.co
+
+# 13.幼儿园
+DOMAIN,u2.dmhy.org
+
+# 14.莫妮卡
+DOMAIN,monikadesign.uk
+# 15.星陨阁
+DOMAIN,pt.xingyungept.org
+# 16.青蛙(部分走代理)
+# DOMAIN,www.qingwapt.com
+DOMAIN,qingwapt.org
+DOMAIN,qingwa.pro
+DOMAIN,new.qingwa.pro
+# 17.萝莉
+DOMAIN,share.ilolicon.com
+# 18.东京
+DOMAIN,www.tokyopt.xyz
+# 19.财神
+DOMAIN,cspt.cc
+DOMAIN,cspt.date
+DOMAIN,cspt.top
+# 20.末日(部分走代理)
+# DOMAIN,www.agsvpt.com
+DOMAIN,agsvpt.cn
+DOMAIN,ptcafe.club
+DOMAIN,pt.agsvpt.cn

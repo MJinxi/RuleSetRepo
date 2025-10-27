@@ -1,0 +1,71 @@
+# NAME: Tracker-Domain
+# AUTHOR: MJinxi
+# REPO: https://github.com/MJinxi/Rule
+# 强制直连tracker列表
+
+
+# 1.馒头
+DOMAIN,tracker.m-team.io
+DOMAIN,tracker.m-team.cc
+DOMAIN,tra1.m-team.io
+DOMAIN,tra1.m-team.cc
+DOMAIN,tra99.manfuz.co
+DOMAIN,v6tracker.m-team.io
+DOMAIN,v6tracker.m-team.cc
+# 2.我堡(站点和种子同地址)
+# DOMAIN,ourbits.club
+DOMAIN-SUFFIX,ourbits.club
+# 3.憨憨
+DOMAIN,tracker.hhanclub.top
+DOMAIN,tracker.hhan.club
+# 4.人人
+DOMAIN,t.audiences.me
+DOMAIN,tracker.cinefiles.info
+# 5.家园
+DOMAIN,t.hdhome.org
+# 6.天空
+DOMAIN,tracker.hdsky.me
+# 7.不可说
+DOMAIN,on.springsunday.net
+# 8.月月
+DOMAIN,tracker.keepfrds.com
+# 9.皇后
+DOMAIN,tracker.open.cd
+# 10猫站
+DOMAIN,tracker.pterclub.com
+# 11.套条
+DOMAIN,tracker.totheglory.im
+# 12.彩虹岛
+DOMAIN,tracker.ptchdbits.co
+DOMAIN,tracker.rainbowisland.co
+DOMAIN,chdbits.xyz
+
+# 13.幼儿园
+
+# 14.莫妮卡
+DOMAIN,tracker.monikadesign.uk
+DOMAIN,daisuki.monikadesign.uk
+DOMAIN,daikirai.monikadesign.uk
+DOMAIN,anime-no-index.com
+# 15.星陨阁
+DOMAIN,tracker.xingyungept.org
+DOMAIN,tracker.xingyungept.cn
+DOMAIN,tracker.xingyunge.sbs
+# 16.青蛙
+DOMAIN,tracker.qingwa.pro
+DOMAIN,tracker.qingwapt.com
+DOMAIN,tracker.qingwapt.org
+# 17.萝莉
+DOMAIN,tracker.ilolicon.cc
+# 18.东京
+DOMAIN,tracker.tokyopt.xyz
+# 19.财神
+DOMAIN,cspt.top
+DOMAIN,tracker.cspt.top
+DOMAIN,tracker.cspt.cc
+DOMAIN,tracker.cspt.date
+# 20.末日
+DOMAIN,tracker.agsvpt.cn
+DOMAIN,tracker.agsvpt.work
+DOMAIN,agsvpt.trackers.work
+DOMAIN,tracker.ptcafe.club
