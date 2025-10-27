@@ -1,0 +1,13 @@
+# 加密指定的三个敏感文件
+rules/MyDomain.list filter=git-crypt diff=git-crypt
+rules/Pt-Domain.list filter=git-crypt diff=git-crypt
+rules/Tracker-Domain.list filter=git-crypt diff=git-crypt
+
+# 其他规则文件保持明文（确保Mihomo可正常拉取）
+rules/direct-domain.list !filter !diff
+rules/embby.list !filter !diff
+rules/fix-direct.yaml !filter !diff
+rules/location_in.yaml !filter !diff
+rules/proxy-domain.list !filter !diff
+rules/speedtest.yaml !filter !diff
+rules/xptv.yaml !filter !diff
