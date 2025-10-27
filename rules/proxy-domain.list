@@ -3,14 +3,6 @@
 # REPO: https://github.com/MJinxi/Rule
 # 强制代理列表，来自谨兮个人收集
 
-<!--以下为历史更新记录，当前仅作参考，实际生效配置请以最新下发内容为准。
-❌ 25.04.22 删除：52PT
-🔧 25.04.24 修复：友人Emby域名
-📄 25.05.01 转移：文档项目
-📄 25.10.03 增加：hdarea,ptzone,carpt
-
--->    
-
 
 #tmdb
 - DOMAIN,image.tmdb.org
@@ -55,11 +47,12 @@ DOMAIN,monikadesign.uk
 DOMAIN,api.m-team.cc
 DOMAIN,kp.m-team.cc
 DOMAIN,www.agsvpt.com
+DOMAIN,www.yemapt.org
 DOMAIN,star-space.net
 DOMAIN,www.qingwapt.com
 DOMAIN,hhanclub.top
 DOMAIN,lemonhd.club
-DOMAIN,www.yemapt.org
+
 DOMAIN,hdarea.club
 DOMAIN,ptzone.xyz
 DOMAIN,carpt.net

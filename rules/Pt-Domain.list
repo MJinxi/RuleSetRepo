@@ -34,6 +34,7 @@ DOMAIN,totheglory.im
 DOMAIN,ptchdbits.co
 DOMAIN,gd.chddiy.xyz
 DOMAIN,chdbits.co
+DOMAIN,chdbits.xyz
 
 # 13.幼儿园
 DOMAIN,u2.dmhy.org
@@ -60,3 +61,76 @@ DOMAIN,cspt.top
 DOMAIN,agsvpt.cn
 DOMAIN,ptcafe.club
 DOMAIN,pt.agsvpt.cn
+# 21.海棠(站点和种子同地址)
+# DOMAIN,www.htpt.cc
+# 22.柠檬
+DOMAIN,lemonhd.club
+# 23.柠檬不甜
+DOMAIN,lemonhd.net
+# 24.朱雀
+DOMAIN,zhuque.in
+# 25.织梦(站点和种子同地址)
+# DOMAIN-KEYWORD,zmpt
+# DOMAIN-SUFFIX,zmpt.club
+# DOMAIN-SUFFIX,zmpt.cc
+# 26.象站
+DOMAIN,ptvicomo.net
+# 27.麒麟
+DOMAIN,www.hdkyl.in
+# 28.库非(站点和种子同地址)
+# DOMAIN-SUFFIX,kufei.org
+# 29.蝴蝶(站点和种子同地址)
+# DOMAIN-SUFFIX,hudbt.hust.edu.cn
+# 30.蝶粉(站点和种子同地址)
+# DOMAIN-SUFFIX,discfan.net
+# DOMAIN-SUFFIX,discfan.xyz
+# 31.聆音(站点和种子同地址)
+# DOMAIN-SUFFIX,pt.soulvoice.club
+# 32.雨(站点和种子同地址)
+# DOMAIN-SUFFIX,raingfh.top
+# 33.红豆饭(站点和种子同地址)
+# DOMAIN-SUFFIX,hdfans.org
+# 34.下水道(站点和种子同地址)
+# DOMAIN-SUFFIX,sewerpt.com
+# 35.大青虫(已走代理)
+# DOMAIN,cyanbug.net
+# 36.蟹黄堡(站点和种子同地址)
+# DOMAIN-SUFFIX,crabpt.vip
+# 37.高清视界
+DOMAIN,hdarea.club
+# 38.高清杜比
+DOMAIN,www.hddolby.com
+# 39.熊猫高清
+DOMAIN,pandapt.net
+# 40.自由农场
+DOMAIN,pt.0ff.cc
+# 41.PT时间
+DOMAIN,www.pttime.org
+# 42.高清时间
+DOMAIN,hdtime.org
+# 43.UBits
+DOMAIN,ubits.club
+# 44.Rousi
+DOMAIN,rousi.zip
+# 45.PTLGS
+DOMAIN,ptlgs.org
+# 46.PTS
+DOMAIN,ptskit.org
+# 47.铂金学院(可能需要走代理)
+# DOMAIN-SUFFIX,ptchina.org
+# 48.TU88(站点和种子同地址)
+# DOMAIN-SUFFIX,pt.tu88.men
+# 49.RailgunPT(站点和种子同地址)
+# DOMAIN-SUFFIX,bilibili.download
+# 50.LongPT(站点和种子同地址)
+# DOMAIN-SUFFIX,longpt.org
+# 51.1PTBA(站点和种子同地址)
+# DOMAIN-SUFFIX,1ptba.com
+# 52.PTzone(站点和种子同地址)
+# DOMAIN-SUFFIX,ptzone.xyz
+# 53.CARPT
+DOMAIN,carpt.net
+# 54.BTSCHOOL
+# DOMAIN-SUFFIX,pt.btschool.club
+# 55.海胆
+DOMAIN,www.haidan.video
